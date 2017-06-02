@@ -1,24 +1,23 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a recipes app, Each recipe has multiple ingredients and multiple steps from 3 different models. We achieve this by creating nested forms using the Cocoon gem.
 
-Things you may want to cover:
+In this project I worket with.
 
-* Ruby version
+* devise - Flexible authentication solution for Rails with Warden
 
-* System dependencies
+* bootstrap_sass - Bootstrap-sass is a Sass-powered version of Bootstrap 3
 
-* Configuration
+* simple_form - Forms made easy!
 
-* Database creation
+* paper_clip
 
-* Database initialization
+* Ruby - 2.3.0
 
-* How to run the test suite
+* Rails - 5.0.3
 
-* Services (job queues, cache servers, search engines, etc.)
+* HAML
 
-* Deployment instructions
+* Vim editor
 
-* ...
+* Tmux
