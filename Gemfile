@@ -35,4 +35,5 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.7'
 gem 'paperclip', '~> 5.1'
 gem 'aws-sdk', '~> 2.9', '>= 2.9.28'
 gem 'cocoon', '~> 1.2', '>= 1.2.10'
+gem 'devise'
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
